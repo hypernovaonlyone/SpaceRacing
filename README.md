@@ -1,1 +1,1 @@
-![alt text](D:\cplusplus\Space racing\SpaceRacing\screen.png)
+![alt text](screen.png)
